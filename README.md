@@ -118,3 +118,24 @@ conflictlens-ai/
 - Human expert assessment of usefulness and calibration.
 
 Use a documented annotation protocol and report limitations. Do not claim legal-violation detection accuracy unless evaluated by qualified experts against a defensible reference standard.
+
+## How to cite
+
+```bibtex
+@software{hussain2026conflictlens,
+  author = {Hussain, Muzammal},
+  title  = {{ConflictLens AI: local multi-agent assistant for evidence analysis in humanitarian-law research}},
+  year   = {2026},
+  url    = {https://github.com/MHKhan50/conflictlens-ai}
+}
+```
+
+## Author
+
+Muzammal Hussain, independent researcher, Glasgow, United Kingdom.
+ORCID: [0009-0001-2570-5686](https://orcid.org/0009-0001-2570-5686)
+
+## Licence
+
+MIT. See `LICENSE`.
+
